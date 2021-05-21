@@ -23,7 +23,7 @@
   "dependencies": {
     "applescript": "^1.0.0",
     "bootstrap": "^4.3.1",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "node-osascript": "^2.1.0",
     "popper.js": "^1.14.7"
   }
